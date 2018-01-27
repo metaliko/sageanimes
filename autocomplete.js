@@ -1,3 +1,4 @@
+<script>
 (function( $ ) {
     
     // Extend the autocomplete widget, using our own application namespace.
@@ -248,3 +249,4 @@ $(function() {
     });
     
 });
+</script>
